@@ -12,6 +12,7 @@ Neopixel :
 https://create.arduino.cc/projecthub/glowascii/neopixel-leds-arduino-basics-126d1a
 http://www.fablabredon.org/wordpress/2017/12/17/lumiere-sur-larduino-avec-de-la-couleur-et-des-led/
 https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
+https://www.youtube.com/watch?v=XH4mNRYMCSA #Pour la matrice de led que le prof nous a conseillé d'utiliser
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ecran :
 https://blog.integral-system.fr/difference-entre-le-tactile-resistif-et-le-tactile-capacitif/
