@@ -26,6 +26,7 @@ https://www.youtube.com/watch?v=opKcik96F58
 Connectivité Bluetooth :
 https://www.youtube.com/watch?v=jR4wX7GF9gQ
 https://www.youtube.com/watch?v=SX54SIAUVcM
+https://www.aranacorp.com/fr/votre-arduino-communique-avec-le-module-hc-05/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Alimentation :
 https://www.youtube.com/watch?v=yuSYzujbz-o
