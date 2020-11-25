@@ -32,6 +32,7 @@ https://www.youtube.com/watch?v=SX54SIAUVcM
 https://www.aranacorp.com/fr/votre-arduino-communique-avec-le-module-hc-05/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Alimentation :
+https://navlab.fr/projets/outils/arduino/alimenter-votre-carte-arduino/
 https://www.youtube.com/watch?v=yuSYzujbz-o
 https://fr.shopping.rakuten.com/offer/buy/4591566073/arduino-mega-2560-r3-chargeur-alimentation-9v-compatible-adaptateur-secteur.html?bbaid=5554807769&t=180127&ptnrid=pt%7C917440929292%7Cc%7C53434268603%7C4591566073&ptnrid=s_dc|pcrid|53434268603|pkw||pmt||ptaid|pla-917440929292|pgrid|14467128323|&gclid=CjwKCAiA2O39BRBjEiwApB2IkiRpwkRi07opEeVyrfAKmqsi6LM7_g_cZCJD8vLmXOSxjHgluBDVzhoCQiwQAvD_BwE
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
