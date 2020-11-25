@@ -13,12 +13,15 @@ Connectivité Bluetooth :
 https://www.aranacorp.com/fr/votre-arduino-communique-avec-le-module-hc-05/
 
 Le module Bluetooth HC-05 possède 6 broches: 
-- VCC
+- VCC (à 3,3V)
 - GND 
 - RX (réception) : connectée à la broche de transmission de l'Arduino
 - TX (transmission) : connectée à la broche de réception de l'Arduino
 - State: retourne 1 quand le module est connecté
 - Key/EN: alimenté en mode configuration, pas connecté en mode communication
+Lorsque le module est en mode configuration, la LED s’allume deux secondes toutes les deux secondes.
+Ouvrir le moniteur série de l’Arduino et s'assurer que l’option de fin de ligne affiche « Nouvelle ligne »  et que le baudrate est réglé à 9600.
+Pour gérer la communication avec le module HC-05, on utilise la librairie SoftwareSerial.h .
 
 
 https://www.youtube.com/watch?v=jR4wX7GF9gQ
